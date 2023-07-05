@@ -1,4 +1,4 @@
-import listview as listview
+
 from django.shortcuts import render, redirect
 from django.urls import reverse_lazy
 
